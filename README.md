@@ -28,6 +28,7 @@ We provide 5 datasets (MNIST, USPS, Fashion_MNIST, STL-10, CIFAR-10) in this cod
        cd "matlabroot/extern/engines/python"
        python setup.py install
 You might need administrator privileges to execute these commands.
+
 2. Train DSGC in parallel by:
 
        $ python DSGC.py --dataset mnist
